@@ -68,17 +68,17 @@ class Food
    }
 
 bedroom(){
-background(bedroom,550,550)
+background(bedroom,200,250)
 
 }
 
 garden(){
-background(garden,550,550)
+background(garden,200,250)
 
 }
 
 washroom(){
-background(washroom,550,550)
+background(washroom,200,250)
 
 }
 
